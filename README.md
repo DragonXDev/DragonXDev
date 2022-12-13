@@ -5,6 +5,11 @@
 
 My name is Amaar, and I code many languages. In specific, I love coding Python, C++, and SQL, but I do fiddle with JS/TS and Elixir. Currently, I am expanding my coding vocabulary whilst learning Elixir and Rust.
 
+
+<p align="right">
+  <img src="coding.gif" alt="animated" />
+</p>
+
 ## Coding Languages
 
 - [Python](https://www.python.org)
