@@ -5,11 +5,21 @@
 
 My name is Amaar, and I code many languages. In specific, I love coding Python, C++, and SQL, but I do fiddle with JS/TS and Elixir. Currently, I am expanding my coding vocabulary whilst learning Elixir and Rust.
 
-
-<p align="right">
-  <img src="coding.gif" alt="animated" />
-</p>
-
+<table>
+  <tr>
+    <td>
+     <img src="coding.gif" alt="animated" />
+    </td>
+    <td>
+      <div style = "top:3200px;">
+        <p align="center">
+          <img src="triangle.gif" alt="animated" width="60%" />
+         </p>
+      </div>
+    </td>
+  </tr>
+</table>
+  
 ## Coding Languages
 
 - [Python](https://www.python.org)
