@@ -46,14 +46,14 @@ My name is Amaar, and I code many languages. In specific, I love coding Python, 
 Reading StackOverflow answers
 
 ## My Stats
-<a style="float: right;" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatXliner&langs_count=8"/></a>
+<a style="float: right;" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonXDev&langs_count=8"/></a>
 </div>
 
 (Hey, I am getting started on my GH!)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=DragonXDev&show_icons=true&theme=dracula"/></a>
 
-![Profile views](https://gpvc.arturio.dev/DragoXDev)  
+![Profile views](https://gpvc.arturio.dev/DragonXDev)  
 
 - - - -
 *“Java is to Javascript what car is to Carpet.” –*
