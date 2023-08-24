@@ -53,8 +53,6 @@ Reading StackOverflow answers
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=DragonXDev&show_icons=true&theme=dracula"/></a>
 
-![Profile views](https://gpvc.arturio.dev/DragonXDev)  
-
 - - - -
 *“Java is to Javascript what car is to Carpet.” –*
 - - - -
