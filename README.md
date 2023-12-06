@@ -1,9 +1,9 @@
 #### If someone looks like me, they aren't. You have found the right account; good job.
 
 
-# Hey there! 👋
+# Welcome to Amaar's Coding Den! 👋
 
-My name is Amaar, and I code many languages. In specific, I love coding Python, C++, and SQL, but I do fiddle with JS/TS and Elixir. Currently, I am expanding my coding vocabulary whilst learning Elixir and Rust.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+full+stack+developer;I'm+a+passionate+coder;I+develop+applications;Got+an+idea?+I'm+listening+:\)&duration=3000)](https://git.io/typing-svg)
 
 <table>
   <tr>
@@ -19,8 +19,11 @@ My name is Amaar, and I code many languages. In specific, I love coding Python, 
     </td>
   </tr>
 </table>
-  
-## Coding Languages
+
+
+## Development Toolkit
+
+[![My Skills](https://skillicons.dev/icons?i=atom,cpp,css,discord,docker,electron,elixir,express,figma,firebase,flask,flutter,git,github,heroku,html,instagram,js,linkedin,lua,md,nextjs,nodejs,py,remix,sass,sqlite,stackoverflow,supabase,selenium,solidjs,svelte,svg,swift,tailwind,tauri,ts,vite,vscode,vue)](https://skillicons.dev)
 
 - [Python](https://www.python.org)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -33,26 +36,34 @@ My name is Amaar, and I code many languages. In specific, I love coding Python, 
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Capabilities
+- Artificial Intelligence
+  - OpenAI LLMs
+  - Vercel AI SDK
+  - LangChain
+- ML
+  - Linear Regression
+  - Logistic Regression
+  - Scikit-Learn
+  - NLP
+- Deep Learning Models
+  - Keras
 - Web Scrapers
   - Selenium
   - Scrapy
   - BS4
-- ML (I'm learning!)
-  - NLP (We'll count it)
-  - Analyzing text
-  - regex (don't even start)
+- Web Scrapers
+  - Selenium
+  - Scrapy
+  - BS4
 
 ### *Strong Suit*
-Reading StackOverflow answers
+Developing full stack applications. If you are in need of a backend / frontend / full-stack developer, contact me.
 
 ## My Stats
-<a style="float: right;" href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DragonXDev&langs_count=8"/></a>
-</div>
 
-(Hey, I am getting started on my GH!)
+![DragonXDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonXDev\&rank_icon=github&theme=transparent)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=DragonXDev&show_icons=true&theme=dracula"/></a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Too+much+to+do+in+too+little+time;Consistency+is+key&duration=8000&color=FFFF00)](https://git.io/typing-svg)
 - - - -
 *“Java is to Javascript what car is to Carpet.” –*
 - - - -
