@@ -3,8 +3,7 @@
 
 # Welcome to Amaar's Coding Den! 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text&duration=500)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+full+stack+developer;I'm+a+passionate+coder;I+develop+applications;Got+an+idea?+I'm+listening+:\)&duration=3000)](https://git.io/typing-svg)
 
 <table>
   <tr>
@@ -64,6 +63,7 @@ Developing full stack applications. If you are in need of a backend / frontend /
 
 ![DragonXDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonXDev\&rank_icon=github&theme=transparent)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Too+much+to+do+in+too+little+time;Consistency+is+key&duration=8000&color=FFFF00)](https://git.io/typing-svg)
 - - - -
 *“Java is to Javascript what car is to Carpet.” –*
 - - - -
