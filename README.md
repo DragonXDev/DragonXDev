@@ -5,22 +5,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+full+stack+developer;I'm+a+passionate+coder;I+develop+applications;Got+an+idea?+I'm+listening+:\)&duration=3000)](https://git.io/typing-svg)
 
-<table>
-  <tr>
-    <td>
-     <img src="coding.gif" alt="animated" />
-    </td>
-    <td>
-      <div style = "top:3200px;">
-        <p align="center">
-          <img src="triangle.gif" alt="animated" width="60%" />
-         </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-
 ## Development Toolkit
 
 [![My Skills](https://skillicons.dev/icons?i=atom,cpp,css,discord,docker,electron,elixir,express,figma,firebase,flask,flutter,git,github,heroku,html,instagram,js,linkedin,lua,md,nextjs,nodejs,py,remix,sass,sqlite,stackoverflow,supabase,selenium,solidjs,svelte,svg,swift,tailwind,tauri,ts,vite,vscode,vue)](https://skillicons.dev)
