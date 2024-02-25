@@ -11,7 +11,7 @@
 
 - [Python](https://www.python.org)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-- [Java](https://docs.oracle.com/en/java/
+- [Java](https://docs.oracle.com/en/java/)
 - [JavaScript](http://www.ecmascript.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [PostgreSQL](https://www.postgresql.org/)
