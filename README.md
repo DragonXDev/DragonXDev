@@ -11,6 +11,7 @@
 
 - [Python](https://www.python.org)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - [Java](https://docs.oracle.com/en/java/)
 - [JavaScript](http://www.ecmascript.org)
 - [TypeScript](https://www.typescriptlang.org/)
