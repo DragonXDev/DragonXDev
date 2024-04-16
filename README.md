@@ -1,13 +1,9 @@
-#### If someone looks like me, they aren't. You have found the right account; good job.
-
-
-# Welcome to Amaar's Coding Den! 👋
+# 👋 Hi, I'm Amaar
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+full+stack+developer;I'm+a+passionate+coder;I+develop+applications;Got+an+idea?+I'm+listening+:\)&duration=3000)](https://git.io/typing-svg)
 
 ## Development Toolkit
-
-[![My Skills](https://skillicons.dev/icons?i=atom,cpp,css,discord,docker,electron,elixir,express,figma,firebase,flask,flutter,git,github,heroku,html,instagram,js,linkedin,lua,md,nextjs,nodejs,py,remix,sass,sqlite,stackoverflow,supabase,selenium,solidjs,svelte,svg,swift,tailwind,tauri,ts,vite,vscode,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts,rust,postgresql,html,css)](https://skillicons.dev)
 
 - [Python](https://www.python.org)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
