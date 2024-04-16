@@ -1,13 +1,12 @@
 # 👋 Hi, I'm Amaar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+full+stack+developer;I'm+a+passionate+coder;I+develop+applications;Got+an+idea?+I'm+listening+:\)&duration=3000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+full+stack+developer;Currently+learning+AI;Got+an+idea?+I'm+listening.&duration=5000)](https://git.io/typing-svg)
 
 ## Development Toolkit
-[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,js,ts,rust,postgresql,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=cpp,python,java,js,ts,rust,postgresql,html,css)](https://skillicons.dev)
 
 - [Python](https://www.python.org)
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
-- [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 - [Java](https://docs.oracle.com/en/java/)
 - [JavaScript](http://www.ecmascript.org)
 - [TypeScript](https://www.typescriptlang.org/)
@@ -18,35 +17,33 @@
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## Capabilities
-- Artificial Intelligence
-  - OpenAI LLMs
-  - Vercel AI SDK
-  - LangChain
-- ML
-  - Linear Regression
-  - Logistic Regression
-  - Scikit-Learn
-  - NLP
-- Deep Learning Models
-  - Keras
-- Web Scrapers
-  - Selenium
-  - Scrapy
-  - BS4
-- Web Scrapers
-  - Selenium
-  - Scrapy
-  - BS4
 
-### *Strong Suit*
-Developing full stack applications. If you are in need of a backend / frontend / full-stack developer, contact me.
+[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="SciKit Learn Logo" style="width:60px; height:60px;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" style="width:60px; height:60px;"/>
+
+- Artificial Intelligence + ML + DL
+  - Pytorch
+  - Tensorflow
+  - SciKit-Learn
+  - Numpy
+  - NLP
+
+
+[![Languages](https://skillicons.dev/icons?i=nextjs,svelte,vue,supabase)](https://skillicons.dev)
+
+- Web Development
+  - NextJS
+  - Svelte
+  - Vue
+  - Supabase / Firebase
+  - React
+
 
 ## My Stats
 
 ![DragonXDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonXDev\&rank_icon=github&theme=transparent)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Too+much+to+do+in+too+little+time;Consistency+is+key&duration=8000&color=FFFF00)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Consistency+is+key;Stay+focused;Keep+the+drive&duration=8000&color=FFFF00)](https://git.io/typing-svg)
 - - - -
-*“Java is to Javascript what car is to Carpet.” –*
+“Java is to Javascript what car is to carpet”
 - - - -
 
